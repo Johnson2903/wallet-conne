@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Mon, 19 Jun 2023 14:31:38 at https://app.centrictool.live/v2/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -Y https://app.centrictool.live/v2/ -O "/Users/dee-why/websites/wwwww" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:32:54	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/favicon.png (from https://app.centrictool.live/v2/)
+14:32:56	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/images/192x192_App_Icon.png (from https://app.centrictool.live/v2/)
+14:32:57	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/images/512x512_App_Icon.png (from https://app.centrictool.live/v2/)
+14:32:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://unpkg.com/evm-chains@0.2.0/dist/umd/index.min.js
+14:32:58	Warning: 	HTML file (14107 bytes) retransferred due to lack of cache: https://app.centrictool.live/v2/BEP20/index.html
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.min.css (from https://app.centrictool.live/v2/BEP20/index.html)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js (from https://app.centrictool.live/v2/BEP20/index.html)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2//code.tidio.co/jiwvzqbjcsatcdnogffecycgvhdw332g.js (from https://app.centrictool.live/v2/BEP20/index.html)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/Decimal/decimal.js (from https://app.centrictool.live/v2/BEP20/index.html)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-brands-400.eot (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-brands-400d41d.eot? (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-brands-400.woff2 (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-brands-400.woff (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-brands-400.ttf (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-brands-400.svg (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-regular-400.eot (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-regular-400d41d.eot? (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-regular-400.woff2 (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-regular-400.woff (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-regular-400.ttf (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-regular-400.svg (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-solid-900.eot (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-solid-900d41d.eot? (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-solid-900.woff2 (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-solid-900.woff (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-solid-900.ttf (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/fonts/fa-solid-900.svg (from https://app.centrictool.live/v2/assets/css/plugins/fontawesome.min.css)
+14:33:26	Error: 	"Not Found" (404) at link https://app.centrictool.live/v2/assets/img/drag.png (from https://app.centrictool.live/v2/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 77 links scanned, 54 files written (20993447 bytes overall) [6136160 bytes received at 56816 bytes/sec], 20340576 bytes transferred using HTTP compression in 75 files, ratio 27%, 5.7 requests per connection
+(26 errors, 2 warnings, 0 messages)
